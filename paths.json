@@ -3,6 +3,6 @@
     "/content/myfirstaemsite/:/"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/myfirstaemsite/"
   ]
 }
